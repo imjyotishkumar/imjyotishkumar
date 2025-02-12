@@ -3,7 +3,7 @@
   <a href="#">Jyotish Kumar</a>
 </h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=WEB AND AI DEVELOPMENT%20%20%20%20&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DEVELOPER&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30"/>
 
 <h2>🚀 Connect with Me</h2>
 
