@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://github.com/imjyotishkumar/imjyotishkumar/blob/3d793db043fe0a1c2ce5f5999a5bb75c390fe183/hand.gif" width="30px"> I'm 
+  Hi I'm 
   <a href="#">Jyotish Kumar</a>
 </h1>
 
