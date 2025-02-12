@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi <img src="https://github.com/imjyotishkumar/imjyotishkumar/blob/3d793db043fe0a1c2ce5f5999a5bb75c390fe183/hand.gif" width="30px"> I'm 
-  <a href="#">Rahul Kumar</a>
+  <a href="#">Jyotish Kumar</a>
 </h1>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Developer%20|%20Creator%20|%20Innovator&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30"/>
