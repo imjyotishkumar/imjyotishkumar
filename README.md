@@ -1,72 +1,65 @@
-<h1 align="center">
-  Hi, I'm <a href="#">Jyotish Kumar</a>
+<h1 align="center" style="font-size: 3rem; font-weight: bold; color: #2F81F7; text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.5);">
+  Hi, I'm 
+  <a href="#" style="color: #FF5733; text-decoration: none;">Jyotish Kumar</a>
 </h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DEVELOPER&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=DEVELOPER&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=40"/>
 
-<h2 align="center">🚀 Connect with Me</h2>
+<h2 style="font-size: 2rem; font-weight: bold; color: #FF5733;">🚀 Connect with Me</h2>
 
-<div align="center">
+<div align="center" style="margin: 20px 0;">
   <a href="#">
-    <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/imjyotishkumar" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:imjyotishkumar.dev@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Website" width="50" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/imjyotishkumar">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="50" height="50" style="margin: 10px;"/>
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=imjyotishkumar.dev@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Mail" width="50" height="50" style="margin: 10px;"/>
   </a>
 </div>
 
-<h2>🧐 More About Me</h2>
-<ul>
-  <li>📚 <strong>BCA Student</strong> | Passionate about Web & AI Development</li>
+<h2 style="font-size: 2rem; font-weight: bold; color: #2F81F7;">🧐 More About Me</h2>
+
+<ul style="font-size: 1.2rem; line-height: 1.8;">
+  <li>📚 <strong>BCA Student</strong> | Passionate about WEB & AI Development</li>
   <li>💻 Proficient in <strong>C/C++</strong> and <strong>MERN Stack</strong></li>
-  <li>📈 Expanding skills in <strong>Python</strong> and modern web technologies</li>
-  <li>🎯 Building projects to solve real-world problems</li>
-  <li>🤝 <strong>Open to collaboration</strong></li>
-  <li>📫 Connect with me on <a href="https://www.linkedin.com/in/imjyotishkumar" target="_blank">LinkedIn</a></li>
+  <li>📈 Expanding skills in <strong>Python</strong> and modern web tech.</li>
+  <li>🎯 Building projects to solve real-world problems.</li>
+  <li>🤝 <strong>Open to collaborating with you</strong>.</li>
+  <li>📫 Reach me on <a href="https://www.linkedin.com/in/iamjyotishkumar" target="_blank" style="color: #FF5733;">LinkedIn</a></li>
 </ul>
 
-<h2 align="center">⚡ Tech Stack</h2>
-<div align="center">
-  <a href="https://www.javascript.com" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="45px"/></a>&nbsp;&nbsp;
-  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" height="45px"/></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45px"/></a>&nbsp;&nbsp;
-  <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" height="45px"/></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45px"/></a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="45px"/></a>&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=py" alt="Python" height="45px"/></a>&nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="45px"/></a>&nbsp;&nbsp;
-  <a href="https://isocpp.org" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="45px"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="45px"/></a>&nbsp;&nbsp;
+<h2 style="font-size: 2rem; font-weight: bold; color: #FF5733;">⚡ Tech Stack</h2>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://skillicons.dev/icons?i=js,react,ts,nodejs,express,mongodb,firebase,py,flask,cpp,git,md" alt="Tech Stack" height="60" style="margin: 10px;"/>
 </div>
 
-<h2 align="center">🏆 Coding Profiles</h2>
+<h2 align="center" style="font-size: 2rem; font-weight: bold; color: #2F81F7;">🏆 Coding Profiles</h2>
 <div align="center">
-  <a href="https://leetcode.com/imjyotishkumar" target="_blank">
-    <img height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
+  <a href="https://leetcode.com/imjyotishkumar">
+    <img height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/100/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/>
   </a>
 </div>
 
-<h2 align="center">⚡ GitHub Stats</h2>
-<div align="center">
-  <img width=380 src="https://streak-stats.demolab.com/?user=imjyotishkumar&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats"/>
-  <img width=360 src="https://github-readme-stats.vercel.app/api?username=imjyotishkumar&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjyotishkumar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="Most Used Languages"/>
+<h2 align="center" style="font-size: 2rem; font-weight: bold; color: #FF5733;">⚡ Current GitHub Stats ⚡</h2>
+<div align="center" style="margin: 20px 0;">
+  <img width=380 src="https://streak-stats.demolab.com/?user=imjyotishkumar&count_private=true&theme=react&border_radius=10" alt="GitHub Streak Stats" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);"/>
+  <img width=360 src="https://github-readme-stats.vercel.app/api?username=imjyotishkumar&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Readme Stats" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);"/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjyotishkumar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Most Used Languages" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);"/>
 </div>
 
-<h2 align="center">📊 GitHub Activity</h2>
+<h2 style="color:#87CEEB; font-size: 2rem; font-weight: bold;">📊 GitHub Activity 📊</h2>
 <div align="center">
   <a href="https://github.com/imjyotishkumar" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imjyotishkumar&theme=github-dark&hide_border=true&bg_color=0D1117&line=87CEEB&point=FFFFFF&title_color=FFFFFF" alt="GitHub Activity Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imjyotishkumar&theme=github-dark&hide_border=true&bg_color=0D1117&line=87CEEB&point=FFFFFF&title_color=FFFFFF" alt="GitHub Activity Graph" style="border: 3px solid white; border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);" />
   </a>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="Thanks" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="Thanks" />
 </div>
